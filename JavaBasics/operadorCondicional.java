@@ -3,6 +3,7 @@
 
     obs: as if statments do java são similares a C/C++
 */
+package JavaBasics;
 
 public class operadorCondicional {
 

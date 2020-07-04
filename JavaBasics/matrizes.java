@@ -1,6 +1,7 @@
 /*
     Esse código dedica-se a criar, acessar e manipular matrizes.
 */
+package JavaBasics;
 
 public class matrizes {
     

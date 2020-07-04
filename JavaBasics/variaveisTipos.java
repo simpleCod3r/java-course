@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class variaveisTipos {
 
     public static void main(String[] args){

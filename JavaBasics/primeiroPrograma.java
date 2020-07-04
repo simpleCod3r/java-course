@@ -1,6 +1,7 @@
 /*
     Programa dedicado a demonstrar o uso de aquisição e impressões
 */
+package JavaBasics;
 
 import java.util.Scanner;
 

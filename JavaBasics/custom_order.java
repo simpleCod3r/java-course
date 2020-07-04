@@ -1,3 +1,5 @@
+package JavaBasics;
+
 // Code for Beginning Java's Cake & Cupcake Shop Tutorial
 
 import java.util.Scanner;  // Needed for the Scanner class to read input
