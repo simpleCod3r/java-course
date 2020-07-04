@@ -6,22 +6,22 @@ import java.util.Scanner;  // Needed for the Scanner class to read input
 public class custom_order {
 
     // STEP 1 PRINTING HELLO WORLD TO CONSOLE
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
+        
+      //System.out.println("Hello World!"); // print Hello World to console
+        
+    // TEST CODE
+    
+    // STEP 2 CREATE A SCANNER OBEJCT, DECLARE VARAIBLES, & PRINT STATEMENTS
+    Scanner keyboard = new Scanner(System.in);
+    String firstName;   //User's first name
+    String itemOrder;    //Item ordered
+    String frostingType;//Frosting ordered
+    String fillingType; //Filling ordered
+    String toppings;    //Toppings ordered
+    //String input;       //User input
 
-      // System.out.println("Hello World!"); // print Hello World to console
-
-      // TEST CODE
-
-      // STEP 2 CREATE A SCANNER OBEJCT, DECLARE VARAIBLES, & PRINT STATEMENTS
-      final Scanner keyboard = new Scanner(System.in);
-      String firstName; // User's first name
-      String itemOrder; // Item ordered
-      String frostingType;// Frosting ordered
-      String fillingType; // Filling ordered
-      String toppings; // Toppings ordered
-      // String input; //User input
-
-    final double cost = 15.00; // Cost of cake and cupcakes
+    double cost = 15.00; //Cost of cake and cupcakes
     final double TAX_RATE= .08;
     double tax; //Amount of tax
 
